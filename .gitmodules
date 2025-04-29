@@ -10,3 +10,12 @@
 [submodule "langs-native/tree-sitter-python"]
 	path = langs-native/tree-sitter-python
 	url = https://github.com/tree-sitter/tree-sitter-python
+[submodule "langs-native/tree-sitter-rust"]
+	path = langs-native/tree-sitter-rust
+	url = https://github.com/tree-sitter/tree-sitter-rust
+[submodule "langs-native/tree-sitter-json"]
+	path = langs-native/tree-sitter-json
+	url = https://github.com/tree-sitter/tree-sitter-json
+[submodule "langs-native/tree-sitter-c-sharp"]
+	path = langs-native/tree-sitter-c-sharp
+	url = https://github.com/tree-sitter/tree-sitter-c-sharp
