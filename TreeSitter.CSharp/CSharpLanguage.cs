@@ -2,7 +2,7 @@ using System.Runtime.InteropServices;
 
 namespace TreeSitter.CSharp;
 
-public class CSharpLanguage
+public static class CSharpLanguage
     {
         private const string DllName = "tree-sitter-csharp";
 

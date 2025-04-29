@@ -50,6 +50,7 @@ def main():
     
     ## Note: cd into the directory and ran Make first, then it worked
     build_lang("c-sharp", "CSharp", "parser.c", "scanner.c")
+    build_lang("rust", "Rust", "parser.c", "scanner.c")
     build_managed()
 
 
